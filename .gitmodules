@@ -1,0 +1,3 @@
+[submodule "tobedeleted"]
+	path = tobedeleted
+	url = git@github.com:OrlovAlexander85/tobedeleted.git
